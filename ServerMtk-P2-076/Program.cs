@@ -28,7 +28,7 @@ namespace ServerMtk_P2_076
                 hostObj = null;
                 Console.WriteLine(ex.Message);
                 Console.ReadLine();
-            }
+            } 
 
         }
     }
